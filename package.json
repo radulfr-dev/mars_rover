@@ -1,0 +1,16 @@
+{
+  "name": "mars_rover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "babel-node": "./node_modules/.bin/babel-node"
+  },
+  "author": "Cameron Raw",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "jest": "^26.6.3"
+  }
+}
